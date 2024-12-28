@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pandas
+matplotlib
+scipy
+ultralytics
+deep-sort-realtime
